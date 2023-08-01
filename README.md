@@ -13,12 +13,12 @@ Ainda tenho muito aprendizado pela frente e por isso mantenho a rotina de estudo
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react=logo"/>
 <br>
 
-
-Caso queira entrar em contato, deixo aqui meus principais links: <br>
+<a href="https://rafaelajaques.vercel.app/">Portfólio</a><br><br>
+Caso queira entrar em contato: <br>
 <a href="https://www.linkedin.com/in/rafaela-jaques"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn-logo"/></a>
 <br>
-<a href="https://rafaelajaques.netlify.app/">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="linkedIn-logo"/></a>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelajaques&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
